@@ -1,0 +1,61 @@
+rid,qid,title,publish,close,format,min_value,max_value
+R1,8564,% vaccinated in VA on Dec 10th,2021-11-12,2021-12-03,num,70,100
+R1,8566,% 5-11yr olds vaccinated in VA on Dec 10th,2021-11-12,2021-12-03,num,0,70
+R1,8570,Highest daily case timing in VA before Feb 4,2021-11-12,2021-12-03,date,2021-11-11,2022-02-03
+R1,8565,% booster/third dose in VA on Dec 10th,2021-11-12,2021-12-03,num,10,40
+R1,8567,Lowest daily case count in VA before Feb 4th,2021-11-12,2021-12-03,num,0,2000
+R1,8561,7-day avg daily cases in VA on Nov 26th,2021-11-12,2021-11-19,num,0,4000
+R1,8562,7-day avg daily cases in VA on Dec 10th,2021-11-12,2021-12-03,num,0,6000
+R1,8568,Lowest daily case timing in VA before Feb 4th,2021-11-12,2021-12-03,date,2021-11-11,2022-02-03
+R1,8571,Highest daily case count in VA before Feb 4th,2021-11-12,2021-12-03,num,1000,10000
+R1,8563,7-day avg daily cases in VA on Jan 7th,2021-11-12,2021-12-03,num,0,8000
+R2,8794,7-day avg daily cases in VA on Dec 31st,2021-12-03,2021-12-24,num,0,6000
+R2,8790,% booster/third dose in VA on Dec 31st,2021-12-03,2021-12-24,num,20,50
+R2,8795,% vaccinated in VA on Dec 31st,2021-12-03,2021-12-24,num,70,100
+R2,8792,% 5-11yr olds vaccinated in VA on Dec 31st,2021-12-03,2021-12-24,num,15,75
+R2,8796,Highest daily case count in VA before Feb 25,2021-12-03,2021-12-24,num,1000,10000
+R2,8793,7-day avg daily cases in VA on Dec 17th,2021-12-03,2021-12-10,num,0,4000
+R2,8798,7-day avg daily cases in VA on Jan 28th,2021-12-03,2021-12-24,num,0,8000
+R2,8799,Highest daily case timing in VA before Feb 25,2021-12-03,2021-12-24,date,2021-12-03,2022-02-25
+R2,8797,Lowest daily case timing in VA before Feb 25,2021-12-03,2021-12-24,date,2021-12-03,2022-02-25
+R2,8791,Lowest daily case count in VA before Feb 25th,2021-12-03,2021-12-24,num,0,2000
+R3,9018,Lowest daily case timing in VA before Mar 18,2021-12-24,2022-01-14,date,2021-12-24,2022-03-18
+R3,9017,Lowest daily case count in VA before Mar 18th,2021-12-24,2022-01-14,num,0,5000
+R3,9016,Highest daily case timing in VA before Mar 18,2021-12-24,2022-01-14,date,2021-12-24,2022-03-18
+R3,9014,Highest daily case count in VA before Mar 18,2021-12-24,2022-01-14,num,1000,30000
+R3,9013,% 5-11yr olds vaccinated in VA on Jan 21st,2021-12-24,2022-01-14,num,25,50
+R3,9012,% vaccinated in VA on Jan 21st,2021-12-24,2022-01-14,num,75,100
+R3,9011,% booster/third dose in VA on Jan 21st,2021-12-24,2022-01-14,num,25,60
+R3,9010,7-day avg daily cases in VA on Feb 18th,2021-12-24,2022-01-14,num,0,15000
+R3,9009,7-day avg daily cases in VA on Jan 21st,2021-12-24,2022-01-14,num,0,15000
+R3,9008,7-day avg daily cases in VA on Jan 7th,2021-12-24,2021-12-31,num,0,10000
+R4,9441,VA Current Hospitalizations on Feb 11,2022-01-14,2022-02-04,num,0,12000
+R4,9440,VA Current Hospitalizations on Jan 28,2022-01-14,2022-01-21,num,0,12000
+R4,9430,Highest daily case timing in VA before Apr 8,2022-01-14,2022-02-04,date,2022-01-14,2022-04-08
+R4,9428,Highest daily case count in VA before Apr 8,2022-01-14,2022-02-04,num,10000,50000
+R4,9427,Lowest daily case count in VA before Apr 8,2022-01-14,2022-02-04,num,0,20000
+R4,9426,Lowest daily case timing in VA before Apr 8,2022-01-14,2022-02-04,date,2022-01-14,2022-04-08
+R4,9425,% booster/third dose in VA on Mar 11,2022-01-14,2022-02-04,num,30,70
+R4,9424,% booster/third dose in VA on Feb 11,2022-01-14,2022-02-04,num,30,70
+R4,9422,7-day avg daily cases in VA on Feb 11th,2022-01-14,2022-02-04,num,0,30000
+R4,9421,7-day avg daily cases in VA on Jan 28th,2022-01-14,2022-01-21,num,0,30000
+R5,9697,% booster/third dose in VA on Mar 4,2022-02-04,2022-02-25,num,30,70
+R5,9698,7-day avg daily cases in VA on Feb 18th,2022-02-04,2022-02-11,num,0,30000
+R5,9699,VA Current Hospitalizations on Feb 18,2022-02-04,2022-02-11,num,0,8000
+R5,9703,% booster/third dose in VA on Apr 1,2022-02-04,2022-02-25,num,30,70
+R5,9704,7-day avg daily cases in VA on Mar 4th,2022-02-04,2022-02-25,num,0,30000
+R5,9705,Lowest daily case count in VA before Apr 29,2022-02-04,2022-02-25,num,0,15000
+R5,9706,VA Current Hospitalizations on Mar 4,2022-02-04,2022-02-25,num,0,8000
+R5,9707,Lowest daily case timing in VA before Apr 29,2022-02-04,2022-02-25,date,2022-02-04,2022-04-29
+R5,9708,Highest daily case timing in VA before Apr 29,2022-02-04,2022-02-25,date,2022-02-04,2022-04-29
+R5,9709,Highest daily case count in VA before Apr 29,2022-02-04,2022-02-25,num,5000,30000
+R6,9919,7-day avg daily cases in VA on Mar 11th,2022-02-25,2022-03-04,num,0,15000
+R6,9920,7-day avg daily cases in VA on Mar 25th,2022-02-25,2022-03-18,num,0,15000
+R6,9921,VA Current Hospitalizations on Mar 11,2022-02-25,2022-03-04,num,0,4000
+R6,9922,VA Current Hospitalizations on Mar 25,2022-02-25,2022-03-18,num,0,4000
+R6,9923,% booster/third dose in VA on Mar 25,2022-02-25,2022-03-18,num,40,60
+R6,9924,% booster/third dose in VA on Apr 22,2022-02-25,2022-03-18,num,40,70
+R6,9925,Lowest daily case timing in VA before May 20,2022-02-25,2022-03-18,date,2022-02-25,2022-05-20
+R6,9926,Lowest daily case count in VA before May 20,2022-02-25,2022-03-18,num,0,5000
+R6,9927,Highest daily case timing in VA before May 20,2022-02-25,2022-03-18,date,2022-02-25,2022-05-20
+R6,9928,Highest daily case count in VA before May 20,2022-02-25,2022-03-18,num,0,25000
