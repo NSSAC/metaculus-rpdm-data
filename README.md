@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/516455432.svg)](https://zenodo.org/badge/latestdoi/516455432)
+
 # metaculus-rpdm-data
 Data associated with the manuscript titled "Utility of human judgment ensembles during times of pandemic uncertainty: A case study during the COVID-19 Omicron BA.1 wave in the United States". 
 These were collected as part of the Real-Time Pandemic Decision Making Exercise conducted by the University of Virginia Biocomplexity Institute on the Metaculus platform in collaboration with Virginia Department of Health. For more details, see [here](https://www.metaculus.com/tournament/realtimepandemic/)
